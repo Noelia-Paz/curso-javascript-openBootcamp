@@ -1,0 +1,21 @@
+{
+  "name": "curso-javascript-openbootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "saludo":"Hola este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noelia-Paz/curso-javascript-openBootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noelia-Paz/curso-javascript-openBootcamp/issues"
+  },
+  "homepage": "https://github.com/Noelia-Paz/curso-javascript-openBootcamp#readme"
+}
