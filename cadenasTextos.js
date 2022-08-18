@@ -1,0 +1,10 @@
+const nombre = 'noe';
+const apellido = 'paz';
+const estudiante = nombre.concat(' ').concat(apellido);
+const estudianteMayus = estudiante.toUpperCase();
+const estudianteMinus = estudiante.toLowerCase();
+const estudianteLength = estudiante.length;
+const inicialNombre = nombre.charAt(0);
+const finalApellido = apellido.charAt(2);
+const estudianteSinEspacios = estudiante.trim().length;
+const nombreEnEstudiante = estudiante.includes(nombre);
