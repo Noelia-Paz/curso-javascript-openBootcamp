@@ -2,9 +2,9 @@
   "name": "curso-javascript-openbootcamp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index2.js",
   "scripts": {
-    "start":"node index.js",
+    "start": "node index2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Noelia-Paz/curso-javascript-openBootcamp/issues"
   },
-  "homepage": "https://github.com/Noelia-Paz/curso-javascript-openBootcamp#readme"
+  "homepage": "https://github.com/Noelia-Paz/curso-javascript-openBootcamp#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
 }
